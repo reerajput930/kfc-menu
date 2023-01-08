@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kfc-menu/static/css/main.ac30f0be.css",
+    "main.js": "/kfc-menu/static/js/main.f89ec2b7.js",
+    "index.html": "/kfc-menu/index.html",
+    "main.ac30f0be.css.map": "/kfc-menu/static/css/main.ac30f0be.css.map",
+    "main.f89ec2b7.js.map": "/kfc-menu/static/js/main.f89ec2b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac30f0be.css",
+    "static/js/main.f89ec2b7.js"
+  ]
+}
